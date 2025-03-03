@@ -1,4 +1,4 @@
-# GoLang for DevOps - 16-Day Roadmap 🚀
+# GoLang for DevOps - 16-Day Roadmap 
 
 ![GoLang](https://img.shields.io/badge/GoLang-DevOps-blue?style=for-the-badge&logo=go)
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-green?style=for-the-badge&logo=devops)
@@ -6,7 +6,7 @@
 
 Welcome to the **GoLang for DevOps** roadmap! This structured 16-day journey will help you master GoLang fundamentals and apply them to real-world DevOps scenarios. 💡💻
 
-## 📌 Course Outline
+##  Course Outline
 
 ### **Day 1: Introduction to GoLang and DevOps**
 - Overview of GoLang
@@ -107,8 +107,6 @@ Welcome to the **GoLang for DevOps** roadmap! This structured 16-day journey wil
 ## ✨ Hands-On Exercises
 Each day includes hands-on coding exercises and assignments to reinforce the concepts learned. Ensure you **commit your code daily** to track your progress and for future reference.
 
-## 💬 Doubt Clearance
-Each weekend, there will be a **dedicated live session** on my [YouTube channel](https://www.youtube.com/) to clear your doubts. Stay tuned! 🎥📢
 
 ## 🚀 Final Project
 The course culminates in a **final project** where you will apply the skills you've learned to build a **comprehensive DevOps tool or workflow using GoLang**, with a focus on **AWS integration**.
@@ -122,5 +120,5 @@ Feel free to **fork** this repository and submit **pull requests** to contribute
 
 📩 **Follow me** for more awesome DevOps and GoLang content!
 
-📢 **Let's connect:** [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [GitHub](https://github.com/)
+📢 **Let's connect:** [LinkedIn](www.linkedin.com/in/deepaksagar07) | [GitHub](https://github.com/Coding4Deep/)
 
