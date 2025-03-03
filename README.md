@@ -1,4 +1,4 @@
-# GoLang for DevOps - 16-Day Roadmap 
+#### GoLang for DevOps - Roadmap 
 
 ![GoLang](https://img.shields.io/badge/GoLang-DevOps-blue?style=for-the-badge&logo=go)
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-green?style=for-the-badge&logo=devops)
