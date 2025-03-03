@@ -4,9 +4,8 @@
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-green?style=for-the-badge&logo=devops)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-orange?style=for-the-badge&logo=githubactions)
 
-Welcome to the **GoLang for DevOps** roadmap! This structured 16-day journey will help you master GoLang fundamentals and apply them to real-world DevOps scenarios. 
 
-##  Course Outline
+#########  <h1>Course Outline</h1>
 
 ###  1: Introduction to GoLang and DevOps**
 - Overview of GoLang
