@@ -5,7 +5,7 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-orange?style=for-the-badge&logo=githubactions)
 
 
-#########  <h1>Course Outline</h1>
+ <h1>Course Outline</h1>
 
 ###  1: Introduction to GoLang and DevOps**
 - Overview of GoLang
