@@ -8,14 +8,14 @@ Welcome to the **GoLang for DevOps** roadmap! This structured 16-day journey wil
 
 ##  Course Outline
 
-### ** 1: Introduction to GoLang and DevOps**
+###  1: Introduction to GoLang and DevOps**
 - Overview of GoLang
 - Setting up the GoLang environment
 - Basic GoLang syntax and types
 - Introduction to DevOps and its principles
 - How GoLang fits into the DevOps ecosystem
 
-### ** 2: GoLang Basics for DevOps**
+###  2: GoLang Basics for DevOps**
 - Variables, constants, and data types
 - Control structures: if, switch, loops
 - Functions and packages
